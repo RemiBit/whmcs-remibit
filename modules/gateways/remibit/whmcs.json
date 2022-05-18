@@ -1,0 +1,26 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "remibit-gateway-module",
+    "license": "MIT",
+    "category": "payments",
+    "description": {
+        "name": "RemiBit Payment",
+        "tagline": "Allows your WHMCS to get paid in crypto in an easy, fast and secure way.",
+        "long": "RemiBit payment gateway features a variety of cryptocurrencies and tokens that you can accept. You can set up your RemiBit payment gateway and start using it in just a few minutes."
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/www.remibit.com\/",
+        "learn_more": "https:\/\/www.remibit.com\/integrations\/whmcs-integration",
+        "email": "support@remibit.com"
+    },
+    "authors": [
+        {
+            "name": "RemiBit Developer",
+            "homepage": "https:\/\/www.remibit.com\/"
+        }
+    ]
+}
